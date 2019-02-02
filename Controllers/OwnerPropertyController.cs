@@ -11,8 +11,6 @@ namespace gerimmoApi.Controllers
     [ApiController]
     public class OwnerPropertyController : ControllerBase
     {
-
-
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<OwnerProperty>> Get()
