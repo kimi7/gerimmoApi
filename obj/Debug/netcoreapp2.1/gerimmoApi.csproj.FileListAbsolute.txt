@@ -1,0 +1,14 @@
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\bin\Debug\netcoreapp2.1\gerimmoApi.deps.json
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\bin\Debug\netcoreapp2.1\gerimmoApi.runtimeconfig.json
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\bin\Debug\netcoreapp2.1\gerimmoApi.runtimeconfig.dev.json
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\bin\Debug\netcoreapp2.1\gerimmoApi.dll
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\bin\Debug\netcoreapp2.1\gerimmoApi.pdb
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\obj\Debug\netcoreapp2.1\gerimmoApi.csprojAssemblyReference.cache
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\obj\Debug\netcoreapp2.1\gerimmoApi.csproj.CoreCompileInputs.cache
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\obj\Debug\netcoreapp2.1\gerimmoApi.RazorAssemblyInfo.cache
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\obj\Debug\netcoreapp2.1\gerimmoApi.RazorAssemblyInfo.cs
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\obj\Debug\netcoreapp2.1\gerimmoApi.AssemblyInfoInputs.cache
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\obj\Debug\netcoreapp2.1\gerimmoApi.AssemblyInfo.cs
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\obj\Debug\netcoreapp2.1\gerimmoApi.RazorTargetAssemblyInfo.cache
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\obj\Debug\netcoreapp2.1\gerimmoApi.dll
+C:\Users\milton.dedieu\source\repos\gerimmo_api\gerimmoApi\obj\Debug\netcoreapp2.1\gerimmoApi.pdb
